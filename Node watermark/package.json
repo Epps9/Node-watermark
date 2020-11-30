@@ -1,0 +1,13 @@
+{
+  "name": "node-watermark",
+  "version": "1.22.5",
+  "description": "node-watermark",
+  "main": "app.js",
+  "repository": "https://github.com/Epps9/Node-watermark.git",
+  "author": "ja",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
